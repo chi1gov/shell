@@ -1,2 +1,3 @@
 #SHELL
 ls -l 
+Tee
